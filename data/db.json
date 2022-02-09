@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Test my post",
+      "body": "Test my content Test my content Test my content Test my content Test my content Test my content Test my content Test my content Test my content Test my content Test my content ",
+      "tags": [
+        "test",
+        "html"
+      ],
+      "id": 3
+    },
+    {
+      "title": "test router",
+      "body": "test router test router test router test router test router",
+      "tags": [
+        "router"
+      ],
+      "id": 4
+    },
+    {
+      "title": "test router",
+      "body": "test router test router test router test router test router",
+      "tags": [
+        "router"
+      ],
+      "id": 5
+    },
+    {
+      "title": "test 2 ROUTER",
+      "body": "test 2 ROUTER test 2 ROUTER test 2 ROUTER test 2 ROUTER",
+      "tags": [],
+      "id": 6
+    },
+    {
+      "title": "name home router",
+      "body": "name home router name home router name home router name home router name home router name home router",
+      "tags": [
+        "home",
+        "router"
+      ],
+      "id": 7
+    }
+  ]
+}
