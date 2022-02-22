@@ -2,4 +2,4 @@
 
 ## run project: npm run serve
 
-## View link:
+## View link: https://udemyvue-6d96b.web.app/
